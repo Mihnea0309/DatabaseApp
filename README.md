@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62318417-2d39-4d67-8684-d6c7bfa3a4ed)<h1>Full Stack Database app</h1>
+![image]()<h1>Full Stack Database app</h1>
 
 <h2>Description</h2>
 Project consists of a full stack database app for a car service. This is a web app that has a database behind with users to login and administrate everything that happens in a car service, from inserting new clients, cars and repairs to updating and deleting employees. From the images below you can see how the features look.
@@ -43,7 +43,7 @@ Updating an entry:  <br/>
 <br />
 <br />
 Inserting a new entry:  <br/>
-<img src="https://imgur.com/IjlvaQ7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/62318417-2d39-4d67-8684-d6c7bfa3a4ed" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
