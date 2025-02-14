@@ -23,7 +23,7 @@ The login screen: <br/>
 <br />
 <br />
 The Dashboard:  <br/>
-<img src="https://imgur.com/MRpArjL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MRpArjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a new acount: <br/>
@@ -35,11 +35,11 @@ Completing the register:  <br/>
 <br />
 <br />
 How a section looks:  <br/>
-<img src="https://imgur.com/ghFJqh4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ghFJqh4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Updating an entry:  <br/>
-<img src="https://imgur.com/Z3XQENu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Z3XQENu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Inserting a new entry:  <br/>
