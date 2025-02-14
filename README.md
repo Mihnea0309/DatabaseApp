@@ -39,7 +39,7 @@ How a section looks:  <br/>
 <br />
 <br />
 Updating an entry:  <br/>
-<img src="https://imgur.com/isV3A9h" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Z3XQENu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Inserting a new entry:  <br/>
