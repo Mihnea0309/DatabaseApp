@@ -1,0 +1,114 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    font-size: 12px;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 12px;
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.select-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+
+.select-container.with-background-clients {
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 200px;
+}
+
+
+.filters-container-clients {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f1f1f1;
+    display: none;
+}
+
+.back-button-clients {
+    position: fixed;
+    top: 8px;
+    left: 8px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.back-button-clients:hover {
+    background-color: #0056b3;
+}
+
+.data-table-clients {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.data-table-clients th,
+.data-table-clients td {
+    border: 1px solid #ddd;
+    padding: 6px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.data-table-clients th {
+    background-color: black;
+    color: white;
+}
+
+.data-table-clients tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.data-table-clients tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Mesaj de eroare */
+p.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+.filters-clients {
+    position: relative;
+    right: 400px;
+    top: 330px;
+    width: 50%;
+    background-color: #f5f5f5;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: 320px;
+}

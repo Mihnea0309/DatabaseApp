@@ -1,0 +1,80 @@
+.insert-employees-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.insert-employees-title {
+    text-align: center;
+    font-size: 18px; /* Font mai mic */
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 12px; /* Mai mic */
+}
+
+.insert-employees-form {
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Reducerea spațiului dintre inputuri */
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Reducerea spațiului dintre elemente */
+}
+
+.form-label {
+    font-weight: bold;
+    font-size: 12px; /* Font mai mic pentru etichete */
+}
+
+.form-input, .form-select {
+    padding: 6px; /* Padding mai mic */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px; /* Font mai mic pentru inputuri */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.back-button, .submit-button {
+    padding: 8px 12px; /* Padding mai mic */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px; /* Font mai mic pentru butoane */
+    font-weight: bold;
+}
+
+.back-button {
+    background-color: #f44336;
+    color: white;
+}
+
+.back-button:hover {
+    background-color: #d32f2f;
+}
+
+.submit-button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
