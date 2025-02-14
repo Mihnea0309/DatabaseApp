@@ -1,8 +1,7 @@
-<h1>Full Stack Database app</h1>
+![image](https://github.com/user-attachments/assets/62318417-2d39-4d67-8684-d6c7bfa3a4ed)<h1>Full Stack Database app</h1>
 
 <h2>Description</h2>
-Project consists of a full stack database app for a car service. This is a web app that has a database behind with users to login and administrate everything that happens in a car service, from inserting new clients, cars and repairs to updating and deleting employees.
-PS: The app is not finished yet. I only implemented the functionlity of the login and register as of right now, with the remaining things to be ready by the start of the next year.
+Project consists of a full stack database app for a car service. This is a web app that has a database behind with users to login and administrate everything that happens in a car service, from inserting new clients, cars and repairs to updating and deleting employees. From the images below you can see how the features look.
 <br />
 
 
@@ -23,8 +22,8 @@ The login screen: <br/>
 <img src="https://i.imgur.com/MXEpOqK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The Dashboard(still in development):  <br/>
-<img src="https://i.imgur.com/5FiP8b8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Dashboard:  <br/>
+<img src="https://imgur.com/MRpArjL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a new acount: <br/>
@@ -33,6 +32,18 @@ Creating a new acount: <br/>
 <br />
 Completing the register:  <br/>
 <img src="https://i.imgur.com/jzw94Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+How a section looks:  <br/>
+<img src="https://imgur.com/ghFJqh4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Updating an entry:  <br/>
+<img src="https://imgur.com/isV3A9h" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Inserting a new entry:  <br/>
+<img src="https://imgur.com/IjlvaQ7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
